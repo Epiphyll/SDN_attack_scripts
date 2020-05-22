@@ -1,7 +1,8 @@
 # SDN_attack_scripts
 ### 环境
 
-靶机：centos 7
+靶机：  centos 7
+
 	OpenDaylight:  karaf-0.6.0-Carbon 
 	特定tomcat
 	java 1.8
