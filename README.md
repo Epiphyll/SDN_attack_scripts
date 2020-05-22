@@ -3,11 +3,14 @@
 
 靶机：centos 7
 	OpenDaylight:  karaf-0.6.0-Carbon 
+	
 	特定tomcat
+	
 	java 1.8
 
 攻击机：Ubuntu16.04 LTS
-​	python 2.7
+​	
+	python 2.7
 
 ### 使用
 
